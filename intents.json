@@ -1,0 +1,11 @@
+{"intents":  [
+  {"tag":  "greetings",
+  "patterns": ["hello","hey","hi","good day", "Greetings","what's up","how is it going"],
+  "responses": ["hi","hey","what can i do for you"] },
+  {"tag":  "goodbye",
+  "patterns": ["see you","goodbye","hi","cao", "see ya"],
+  "responses": ["bye","talk to you later","goodbye"] },
+   {"tag":  "name",
+  "patterns": ["what is your name","what's your name","who are you"],
+  "responses": ["you can call me AI assisant","AI assistant","i don't have a name i'm your AI assistant"] }
+]}
